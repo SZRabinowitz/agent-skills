@@ -1,3 +1,7 @@
+---
+name: uv-package-management
+description: Teaches the agent how to manage Python projects, standalone scripts, and dependencies using the uv package manager.
+---
 # UV Quickstart Guide for Coding Agents
 
 This guide outlines the standard operating procedures for managing Python projects, scripts, and dependencies using `uv`. 
